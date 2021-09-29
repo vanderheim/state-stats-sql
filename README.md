@@ -1,6 +1,6 @@
 # state-stats-sql
 
-This is a simple program written in NodeJS that takes in some statistical information in the form of two CSV files and performs some basic calculations on it.
+This is a simple program written in NodeJS that takes in the JSON generated from the States-Stats program and converts the data into a sequence of MySQL database query statements.
 
 ## Table of Contents
 - [Prerequisities](#prerequisities)
