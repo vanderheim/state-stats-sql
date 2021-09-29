@@ -1,0 +1,24 @@
+{
+  "name": "state-stats-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanderheim/state-stats-sql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanderheim/state-stats-sql/issues"
+  },
+  "homepage": "https://github.com/vanderheim/state-stats-sql#readme",
+  "dependencies": {
+    "get-stdin": "^9.0.0",
+    "minimist": "^1.2.5"
+  }
+}
